@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Quantum Computing and Data Science.
 - 🌱 I’m currently an undergraduate at IIT-ISM, India.
 - 💞️ I’m looking to collaborate on any suitable open-source project.
-- 📫 How to reach me - I only have an account on [LinkedIn](www.linkedin.com/in/sagarmishra910), if our interests intersects, let's connect!
+- 📫 How to reach me - I only have an account on [LinkedIn](https://linkedin.com/in/sagarmishra910), if our interests intersects, let's connect!
 
 I'm always cooking something new in my private repos or engaging in meaningful Q&As on Stack exchange. Here's a way to catch me there: 
 
