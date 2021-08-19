@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @achieveordie
+- 👋 Hi, I’m [@achieveordie](https://achieveordie.github.io/)
 - 👀 I’m interested in Machine Learning, Quantum Computing and Data Science.
 - 🌱 I’m currently an undergraduate at IIT-ISM, India.
 - 💞️ I’m looking to collaborate on any suitable open-source project.
